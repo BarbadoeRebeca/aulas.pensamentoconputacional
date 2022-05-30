@@ -1,2 +1,2 @@
-# aulas.pensamentoconputacional
+# aulas.pensamentocomputacional
 aula teste
